@@ -1,8 +1,8 @@
 ## :scroll: About myself
 
-### QA engineer with qa automation skills
+### -= QA engineer with qa automation skills =-
 
-### My Diploma Projects at QA GURU Test Automation
+### --== My Diploma Projects at QA GURU Test Automation ==--
 
 | Project name             | GitHub links                                      |
 |--------------------------|---------------------------------------------------|
