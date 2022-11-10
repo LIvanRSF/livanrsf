@@ -1,6 +1,15 @@
-## :scroll: О себе
-### Тестировщик с навыками автоматизации
-## :technologist: Технологии и инструменты
+## :scroll: About myself
+
+### QA engineer with qa automation skills
+
+### My Diploma Projects at QA GURU Test Automation
+
+| Project name             | GitHub links                                      |
+|--------------------------|---------------------------------------------------|
+| Mobile tests Project     | https://github.com/LIvanRSF/MobileTestingPractice |
+| API and UI tests Project | https://github.com/LIvanRSF/globalL1              |
+
+## :technologist: Stack and technologies
 
 <p align="center">
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
@@ -14,55 +23,53 @@
 <a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 </p>
 
-## Примеры применения технологий
+## Examples of work
 
 ## <img src="images/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Jenkins <a target="_blank" href="https://jenkins.autotests.cloud/job/tinkoff-tests/"> job </a>
+
 <p align="center">
 <a href="https://jenkins.autotests.cloud/job/tinkoff-tests/"><img src="images/screenshots/Jenkins.png" alt="Jenkins"/></a>
 </p>
 
-### :maple_leaf: Параметры сборки в Jenkins:
 
-- browser (браузер, по умолчанию chrome)
-- version (версия браузера, по умолчанию 100.0)
-- size (размер окна браузера, по умолчанию 1920x1080)
-- remoteUrl (логин, пароль и адрес удаленного сервера selenoid)
+
+
+
+
 
 ## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/tinkoff-tests/11/allure/">Allure report</a>
 
-### :lady_beetle: Основное окно
+### :lady_beetle: Main window
 
 <p align="center">
 <img title="Allure Overview Dashboard" src="images/screenshots/AllureMain.png">
 </p>
 
-### :cherries: Тесты
+### :cherries: Tests
 
 <p align="center">
 <img title="Allure Tests" src="images/screenshots/AllureTests.png">
 </p>
 
-### :cut_of_meat: Графики
+### :cut_of_meat: Graphs
 
 <p align="center">
 <img title="Allure Graphics" src="images/screenshots/AllureGraphs.png">
 </p>
 
-## <img src="images/logo/Telegram.svg" width="25" height="25"  alt="Allure"/></a> Уведомление в Telegram при помощи бота
+## <img src="images/logo/Telegram.svg" width="25" height="25"  alt="Allure"/></a> Telegram notification with alert bot
 
 <p align="center">
 <img title="Allure Overview Dashboard" src="images/screenshots/Telegramm.png" >
 </p>
 
-
-## <img src="images/logo/Selenoid.svg" width="25" height="25"  alt="Allure"/></a> Видео прохождения теста
+## <img src="images/logo/Selenoid.svg" width="25" height="25"  alt="Allure"/></a> Video report of test running
 
 <p align="center">
-<img title="Selenoid Video" src="images/gif/VideoTest.gif" width="250" height="153"  alt="video"> 
+<img title="Selenoid Video" src="images/gif/BrowserStackVideoTest.gif" width="250" height="153"  alt="video"> 
 </p>
 
-
-## <img src="images/logo/Browserstack.png" width="25" height="25"  alt="Allure"/></a> Мобильное тестирование с BrowserStack
+## <img src="images/logo/Browserstack.png" width="25" height="25"  alt="Allure"/></a> Mobile testing with BrowserStack
 
 <p align="center">
 <img title="BrowserStack graphs" src="images/screenshots/BrowserStackWikiGraphs.png" >
