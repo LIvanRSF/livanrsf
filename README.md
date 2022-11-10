@@ -66,7 +66,7 @@
 ## <img src="images/logo/Selenoid.svg" width="25" height="25"  alt="Allure"/></a> Video report of test running
 
 <p align="center">
-<img title="Selenoid Video" src="images/gif/BrowserStackVideoTest.gif" width="250" height="153"  alt="video"> 
+<img title="Selenoid Video" src="images/gif/BrowserStackVideoTest.gif" width="450" height="750"  alt="video"> 
 </p>
 
 ## <img src="images/logo/Browserstack.png" width="25" height="25"  alt="Allure"/></a> Mobile testing with BrowserStack
