@@ -21,6 +21,9 @@
 <a href="https://aerokube.com/selenoid/"><img src="images/logo/Selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
 <a href="https://github.com/allure-framework/allure2"><img src="images/logo/Allure.svg" width="50" height="50"  alt="Allure"/></a>
 <a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
+<a href="https://github.com/appium/appium-inspector/raw/main/docs/icon.png"><img src="images/logo/AppiumInspectorIcon.png" width="50" height="50"  alt="Appium Inspector"/></a>  
+<a href="https://avatars.githubusercontent.com/u/3221291?s=200&v=4"><img src="images/logo/Appium.svg" width="50" height="50"  alt="Appium"/></a>  
+<a href="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg"><img src="images/logo/android-studio-1.svg" width="50" height="50"  alt="AndroidStudio"/></a>
 </p>
 
 ## Examples of work
