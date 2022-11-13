@@ -2,7 +2,7 @@
 
 ### --== QA engineer with qa automation skills ==--
 
-### --== My Diploma Projects at QA GURU Test Automation ==--
+### --== Test Automation Diploma Projects ("QA.GURU" school) ==--
 
 | Project name             | GitHub links                                      |
 |--------------------------|---------------------------------------------------|
@@ -26,7 +26,7 @@
 <a href="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg"><img src="images/logo/android-studio-1.svg" width="50" height="50"  alt="AndroidStudio"/></a>
 </p>
 
-## Examples of work
+## Works example
 
 ## <img src="images/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Jenkins <a target="_blank" href="https://jenkins.autotests.cloud/job/tinkoff-tests/"> job </a>
 
@@ -40,7 +40,7 @@
 
 
 
-## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/tinkoff-tests/11/allure/">Allure report</a>
+## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> <a target="_blank" href="https://jenkins.autotests.cloud/job/tinkoff-tests/11/allure/">Allure report</a>
 
 ### :lady_beetle: Main window
 
